@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Aarav Jain 👋
 
-<!--
-**AaravJain62677/AaravJain62677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech AIML student interested in **Machine Learning, NLP, and AI research**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Machine Learning
+- Natural Language Processing
+- Transformer architectures
+- Context understanding in language models
+
+---
+
+## 📚 Currently Studying
+
+- Andrew Ng Machine Learning Specialization
+- Stanford CS224N: Natural Language Processing with Deep Learning
+- Python for Machine Learning
+
+---
+
+## 🚀 Current Project
+
+### Context Drift Detection in NLP
+
+Goal:
+Study how NLP models behave when conversational context changes.
+
+Planned experiments:
+
+- TF-IDF + Logistic Regression baseline
+- Transformer-based models
+- Context window analysis
+
+---
+
+## 🛠 Skills
+
+Programming:
+
+- Python
+- NumPy
+- Pandas
+- Scikit-Learn
+
+ML Concepts:
+
+- Algorithms 
+- Model evaluation
+- Feature engineering
+
+---
+
+## 📈 Learning Goals (2026)
+
+- Deep understanding of transformer architectures
+- NLP research projects
+- Research internship experience
+- Building ML systems
+
+---
+
+## 📫 Connect
+Linkedin : https://www.linkedin.com/in/aarav-jain-4344b8298/
+
+GitHub: https://github.com/AaravJain62677
+LinkedIn: (add your linkedin here)
