@@ -64,6 +64,4 @@ ML Concepts:
 
 ## 📫 Connect
 Linkedin : https://www.linkedin.com/in/aarav-jain-4344b8298/
-
 GitHub: https://github.com/AaravJain62677
-LinkedIn: (add your linkedin here)
