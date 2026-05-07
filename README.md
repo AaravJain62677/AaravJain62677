@@ -65,3 +65,5 @@ ML Concepts:
 ## 📫 Connect
 Linkedin : https://www.linkedin.com/in/aarav-jain-4344b8298/
 GitHub: https://github.com/AaravJain62677
+
+![Snake](https://raw.githubusercontent.com/AaravJain62677/AaravJain62677/output/snake-dark.svg)
