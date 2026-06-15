@@ -52,16 +52,6 @@ ML Concepts:
 - Feature engineering
 
 ---
-
-## 📈 Learning Goals (2026)
-
-- Deep understanding of transformer architectures
-- NLP research projects
-- Research internship experience
-- Building ML systems
-
----
-
 ## 📫 Connect
 Linkedin : https://www.linkedin.com/in/aarav-jain-4344b8298/
 
