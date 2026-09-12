@@ -2,11 +2,11 @@
 
 # aarav /ˈɑːrəv/
 
-*ml researcher · nlp cell lead · mech interp*
+*ml researcher · rl curious · mech interp*
 
 / [github.com/AaravJain62677](https://github.com/AaravJain62677)
 
-Building at **VIPS-TC**. Working on interpretability, NLP, and deep learning research.
+Working on interpretability, NLP, and deep learning research.
 
 </div>
 
