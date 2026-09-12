@@ -1,58 +1,34 @@
-# Hi, I'm Aarav Jain 👋
+<div align="center">
 
-B.Tech AIML student interested in **Machine Learning, NLP, and AI research**.
+# aarav /ˈɑːrəv/
 
----
+*ml researcher · nlp cell lead · mech interp*
 
-## 🔬 Research Interests
+/ [github.com/AaravJain62677](https://github.com/AaravJain62677)
 
-- Machine Learning
-- Natural Language Processing
-- Transformer architectures
-- Context understanding in language models
+Building at **VIPS-TC**. Working on interpretability, NLP, and deep learning research.
 
----
-
-## 📚 Currently Studying
-
-- Andrew Ng Machine Learning Specialization
-- Stanford CS224N: Natural Language Processing with Deep Learning
-- Python for Machine Learning
+</div>
 
 ---
 
-## 🚀 Current Project
+## `projects`
 
-### Context Drift Detection in NLP
-
-Goal:
-Study how NLP models behave when conversational context changes.
-
-Planned experiments:
-
-- TF-IDF + Logistic Regression baseline
-- Transformer-based models
-- Context window analysis
+- **[entropylens](https://github.com/AaravJain62677/entropylens)** · terminal-based decoding strategy comparator · visualizes per-token Shannon entropy
+- **[research-agent](https://github.com/AaravJain62677/research-agent)** · multi-step research agent with x402 payments · built for Brainwave 2026
+- **[Vestige](https://github.com/AaravJain62677/Vestige)** · spaced repetition benchmarking platform · SM-2, HLR, FSRS, and a custom LSTM
+- **[FlyRank](https://github.com/AaravJain62677/FlyRank)** · backend AI engineering
 
 ---
 
-## 🛠 Skills
+## `stack`
 
-Programming:
+Deep Learning / Machine Learning / Reinforcement Learning
 
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
-
-ML Concepts:
-
-- Algorithms 
-- Model evaluation
-- Feature engineering
+Python / PyTorch / NumPy / Pandas
 
 ---
-## 📫 Connect
-Linkedin : https://www.linkedin.com/in/aarav-jain-4344b8298/
 
-![Snake](https://raw.githubusercontent.com/AaravJain62677/AaravJain62677/output/snake-dark.svg)
+## `focus`
+
+Mechanistic interpretability of LLMs , AI Safety 
